@@ -1,0 +1,1 @@
+print("Hello from Class-1 from Rupak Seal")
